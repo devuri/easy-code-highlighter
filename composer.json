@@ -1,12 +1,23 @@
 {
     "name": "devuri/easy-code-highlighter",
     "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
     "description": "Code Highlighter",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Uriel Wilson",
+            "email": "support@urielwilson.com",
+            "homepage": "https://urielwilson.com",
+            "role": "Developer"
+        }
+    ],
     "require": {},
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/devuri/avada"
+            "url": "https://github.com/devuri/easy-code-highlighter"
         }
     ]
 }

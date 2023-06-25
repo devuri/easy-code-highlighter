@@ -1,7 +1,7 @@
 {
     "name": "devuri/easy-code-highlighter",
     "type": "wordpress-plugin",
-    "license": "GPL-2.0",
+    "license": "GPL-2.0-only",
     "description": "Code Highlighter",
     "minimum-stability": "dev",
     "prefer-stable": true,

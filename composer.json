@@ -1,0 +1,12 @@
+{
+    "name": "devuri/easy-code-highlighter",
+    "type": "wordpress-plugin",
+    "description": "Code Highlighter",
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/devuri/avada"
+        }
+    ]
+}

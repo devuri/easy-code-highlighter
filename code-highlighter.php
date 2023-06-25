@@ -6,7 +6,7 @@
  * Plugin Name:       Code Highlighter
  * Plugin URI:        https://urielwilson.com/wordpress-plugins/
  * Description:       A WordPress plugin for syntax highlighting using the Prism.js library.
- * Version:           0.10.1
+ * Version:           0.3.1
  * Requires PHP:      7.4
  * Author:            Uriel 
  * Author URI:        https://urielwilson.com

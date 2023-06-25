@@ -1,1 +1,1 @@
-# Prism-Code-Highlighter
+# Code Highlighter
